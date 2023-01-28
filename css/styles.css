@@ -219,7 +219,7 @@ img {
   min-width: 169px;
   height: 56px;
   border: none;
-  transition: color var(--delay-hover);
+  transition: background-color var(--delay-hover);
 }
 
 .hero-btn:is(:hover, :focus) {
